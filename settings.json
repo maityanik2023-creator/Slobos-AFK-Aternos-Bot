@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "timepass0707.aternos.me",
+    "ip": "corgidor.aternos.host:32882",
     "port": 32882,
     "version": "",
     "try-creative": false
