@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "corgidor.aternos.host:32882",
-    "port": 32882,
+    "ip": "A1survival.aternos.me",
+    "port": 50184,
     "version": "",
     "try-creative": false
   },
